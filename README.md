@@ -9,5 +9,8 @@ Going to the supermarket is an essential part of people's lives, whether to buy 
 
 ## Live Application Demo 
 
+## Table of Contents
 
+* [Code](https://github.com/SOFE2720/Group-40--Smartshop/tree/main/Code)
+  * hh
 
