@@ -2,7 +2,7 @@
 
 This folder contains all files pertaining to the design of our application. All behavioural, class and component models are included. Additionally we have included our attributes, relationships and responsibilites table.
 
-Our prototype is attached as a video which is a live demo of the features included in our application. 
+Our [prototype](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Design/Prototype.gif) is attached as a video which is a live demo of the features included in our application. 
 
 ## Quicklinks
 
