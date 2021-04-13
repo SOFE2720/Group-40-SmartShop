@@ -13,4 +13,9 @@ Going to the supermarket is an essential part of people's lives, whether to buy 
 
 * [Requirements](https://github.com/SOFE2720/Group-40--Smartshop/tree/main/Requirements)
   * [Readme File](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Requirements/readme.md)
+  * [Requirement Diagram](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Requirements/requirement%20diagram.png)
+  * [List of Requirements](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Requirements/List_of_Requirements.pdf)
+  * [Review Report](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Requirements/ReviewReport.pdf)
+  * [Requirement Draft 1](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Requirements/requirements-1.png)
+  * [Requirement Draft 2](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Requirements/requirements-2.png)
 
