@@ -38,3 +38,5 @@ Going to the supermarket is an essential part of people's lives, whether to buy 
   * [Use Case Descriptions](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Use%20Cases/use%20case%20diagram.png)
   * [Use Case Diagram](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Use%20Cases/use%20case%20diagram.png)
   * [User Interface Diagram](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Use%20Cases/user%20interface%20diagram.jpg)
+* [Tracebility Matrix](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Tracebility%20Matrix.png)
+* [Team Assessment](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/team%20assessment%20.pdf)
