@@ -8,6 +8,7 @@ Going to the supermarket is an essential part of people's lives, whether to buy 
 **SmartShop aims to bring the supermarket to your doorstep without you having to leave your doorstep.**
 
 ## Live Application Demo 
+<img src="https://user-images.githubusercontent.com/57465997/114480098-d5a79f80-9bcf-11eb-8b78-ca7d30a23183.gif" width="100" height="100">
 
 ## Table of Contents
 
