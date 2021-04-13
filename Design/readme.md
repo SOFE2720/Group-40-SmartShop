@@ -1,6 +1,6 @@
 # Design Overview
 
-This folder contains all files pertaining to the design of our application. All behavioural, class and component models are included. 
+This folder contains all files pertaining to the design of our application. All behavioural, class and component models are included. Additionally we have included our attributes, relationships and responsibilites table.
 
 Our prototype is attached as a video which is a live demo of the features included in our application. 
 
