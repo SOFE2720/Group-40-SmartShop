@@ -11,6 +11,6 @@ Going to the supermarket is an essential part of people's lives, whether to buy 
 
 ## Table of Contents
 
-* [Code](https://github.com/SOFE2720/Group-40--Smartshop/tree/main/Code)
+* [Requirements](https://github.com/SOFE2720/Group-40--Smartshop/tree/main/Requirements)
   * hh
 
