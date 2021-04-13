@@ -2,7 +2,7 @@
 
 This folder contains all files pertaining to the requirements and all requirement models. Our system requirements diagram is included and can be viewed [here](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Requirements/requirement%20diagram.png).
 
-Our list of requirements and review report along are included as well. Additionally we attached two files of our requirements that were made in the beginning stages of our application. 
+Our list of requirements and along with our review report is included as well. Additionally we attached two files of our requirements that were made in the beginning stages of our application. 
 
 ## Contents
 
