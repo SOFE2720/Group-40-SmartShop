@@ -9,6 +9,8 @@ Going to the supermarket is an essential part of people's lives, whether to buy 
 
 ## Live Application Demo 
 
+<img src="https://user-images.githubusercontent.com/57465997/114480098-d5a79f80-9bcf-11eb-8b78-ca7d30a23183.gif" width="200" height="400">
+
 
 ## Table of Contents
 
