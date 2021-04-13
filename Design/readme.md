@@ -4,7 +4,7 @@ This folder contains all files pertaining to the design of our application. All 
 
 Our [prototype](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Design/Prototype.gif) is attached as a video which is a live demo of the features included in our application. 
 
-## Quicklinks
+## Contents
 
 * [Attributes Table](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Design/attributes%20table.png)
 * [Class Diagram](https://github.com/SOFE2720/Group-40--Smartshop/blob/main/Design/class%20diagram.png)
